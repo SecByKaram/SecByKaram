@@ -14,24 +14,24 @@
 - 🔐 Passionate about **Cybersecurity & Information Security**  
 - 🌐 Interested in **Networking & IT Infrastructure**  
 - 📖 Currently learning **Vulnerability Assessment & Encryption Algorithms**  
-- 🛠️ Building projects in **Security Tools, Java, and Python**  
+- 🛠️ Building projects in **Security Tools and Java**  
 - 🎯 Goal: Becoming a professional **Cybersecurity Engineer**  
 
 ---
 
 ### ⚡ Tools & Technologies
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-orange?style=flat&logo=java&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-Algorithms-blue?style=flat&logo=stackshare&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-Network%20Security-darkgreen?style=flat&logo=cisco&logoColor=white)
+![Encryption](https://img.shields.io/badge/Encryption-Cryptography-purple?style=flat&logo=protonvpn&logoColor=white)
+![Database](https://img.shields.io/badge/Database-SQL%20%26%20NoSQL-red?style=flat&logo=mysql&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-
 ---
 
 ### 📊 GitHub Stats
@@ -46,7 +46,6 @@
 
 ### 🌍 Connect with Me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/)  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/karamkittaneh)  
 
 ---
