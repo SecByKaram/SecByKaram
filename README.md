@@ -11,12 +11,15 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔐 Passionate about **Cybersecurity & Information Security**  
-- 🌐 Interested in **Networking & IT Infrastructure**  
-- 📖 Currently learning **Vulnerability Assessment & Encryption Algorithms**  
-- 🛠️ Building projects in **Security Tools and Java**  
-- 🎯 Goal: Becoming a professional **Cybersecurity Engineer**  
+🔐 Passionate about Information Security & Network Security
 
+🌐 Interested in Network Technologies & IT Infrastructure
+
+📖 Currently learning Vulnerability Assessment & Cryptography
+
+🛠️ Building Information Security & Java-based Projects
+
+🎯 Goal: Becoming a Professional Information Security Engineer
 ---
 
 ### ⚡ Tools & Technologies
