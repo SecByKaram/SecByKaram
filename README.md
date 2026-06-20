@@ -45,6 +45,15 @@
 ### 🌍 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/karam-kittaneh-64229b388/)---
 
+
+### 📚 Currently Learning
+
+- 🔍 Vulnerability Assessment
+- 🌐 Advanced Network Security Concepts
+- 🔐 Cryptography & Encryption Techniques
+- 🛡️ Risk Assessment & Security Analysis
+
+  
 <div align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="10%" alt="Cyber Shield"/>
 <h4>Securing the Digital World, One Line of Code at a Time 🔐</h4>
