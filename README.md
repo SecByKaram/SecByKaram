@@ -50,9 +50,8 @@
 - 🔐 Cryptography & Encryption Techniques
 - 🛡️ Risk Assessment & Security Analysis
 
-- 
 ### 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/karam-kittaneh-64229b388/)---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/karam-kittaneh-64229b388/)
 
 
 <div align="center">
