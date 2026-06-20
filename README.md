@@ -4,7 +4,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 <h2>Hi, I'm Karam Kittaneh 👋</h2>
-<h3>💻 Information Security | Networking | Cybersecurity Enthusiast</h3>
+<h3>Information Security | Network Security | Cryptography</h3>
 
 </div>
 
