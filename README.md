@@ -42,6 +42,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
 
+---
 
 ### 📚 Currently Learning
 
@@ -49,6 +50,7 @@
 - 🌐 Advanced Network Security Concepts
 - 🔐 Cryptography & Encryption Techniques
 - 🛡️ Risk Assessment & Security Analysis
+---
 
 ### 🌍 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/karam-kittaneh-64229b388/)
