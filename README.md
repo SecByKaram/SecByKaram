@@ -45,8 +45,6 @@
 
 ### 🌍 Connect with Me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/karamkittaneh)  
-
 ---
 
 <div align="center">
