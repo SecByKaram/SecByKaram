@@ -29,18 +29,18 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 
-![Object-Oriented Programming](https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-orange?style=flat)
+![Object-Oriented Programming](https://img.shields.io/badge/Object--Oriented%20Programming-orange?style=flat)
 
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-Algorithms-blue?style=flat)
-![Network Security](https://img.shields.io/badge/Network%20Security-Cisco-darkgreen?style=flat&logo=cisco&logoColor=white)
-![Cryptography](https://img.shields.io/badge/Cryptography-Security-purple?style=flat)
+![Network Security](https://img.shields.io/badge/Network%20Security-darkgreen?style=flat)
+![Cryptography](https://img.shields.io/badge/Cryptography-purple?style=flat)
 
-![Database](https://img.shields.io/badge/Database-SQL-blue?style=flat&logo=mysql&logoColor=white)
+![Database](https://img.shields.io/badge/Database-grey?style=flat)
+![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=mysql&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
-
+![VS Code](https://img.shields.io/badge/Visual Studio Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
 
 
 ### 🌍 Connect with Me
