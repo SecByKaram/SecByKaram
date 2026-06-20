@@ -24,18 +24,22 @@
 
 ### ⚡ Tools & Technologies
 
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![OOP](https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-orange?style=flat&logo=java&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-Algorithms-blue?style=flat&logo=stackshare&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-Network%20Security-darkgreen?style=flat&logo=cisco&logoColor=white)
-![Encryption](https://img.shields.io/badge/Encryption-Cryptography-purple?style=flat&logo=protonvpn&logoColor=white)
-![Database](https://img.shields.io/badge/Database-SQL%20%26%20NoSQL-red?style=flat&logo=mysql&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
----
+
+![Object-Oriented Programming](https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-orange?style=flat)
+
+![Data Structures](https://img.shields.io/badge/Data%20Structures-Algorithms-blue?style=flat)
+![Network Security](https://img.shields.io/badge/Network%20Security-Cisco-darkgreen?style=flat&logo=cisco&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-Security-purple?style=flat)
+
+![Database](https://img.shields.io/badge/Database-SQL-blue?style=flat&logo=mysql&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
 
 ### 📊 GitHub Stats
 <div align="center">
