@@ -41,15 +41,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
 
-### 📊 GitHub Stats
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=karamkittaneh&show_icons=true&theme=tokyonight" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karamkittaneh&layout=compact&theme=tokyonight" width="48%">
 
-</div>
-
----
 
 ### 🌍 Connect with Me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/)  
